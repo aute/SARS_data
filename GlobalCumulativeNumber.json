@@ -1,0 +1,82 @@
+{
+    "2003.03.17": {
+        "Germany": {
+            "cumulative": 1,
+            "deaths": 0
+        },
+        "Canada": {
+            "cumulative": 8,
+            "deaths": 2
+        },
+        "Singapore": {
+            "cumulative": 20,
+            "deaths": 0
+        },
+        "HongKong": {
+            "cumulative": 95,
+            "deaths": 1
+        },
+        "Switzerland": {
+            "cumulative": 2,
+            "deaths": 0
+        },
+        "Thailand": {
+            "cumulative": 1,
+            "deaths": 0
+        },
+        "VietNam": {
+            "cumulative": 40,
+            "deaths": 1
+        },
+        "Total": {
+            "cumulative": 167,
+            "deaths": 4
+        }
+    },
+    "2003.03.18": {
+        "Germany": {
+            "cumulative": 2,
+            "deaths": 0
+        },
+        "Canada": {
+            "cumulative": 8,
+            "deaths": 2
+        },
+        "Singapore": {
+            "cumulative": 23,
+            "deaths": 0
+        },
+        "HongKong": {
+            "cumulative": 123,
+            "deaths": 1
+        },
+        "Taiwan": {
+            "cumulative": 3,
+            "deaths": 0
+        },
+        "Switzerland": {
+            "cumulative": 2,
+            "deaths": 0
+        },
+        "Slovenia": {
+            "cumulative": 1,
+            "deaths": 0
+        },
+        "Thailand": {
+            "cumulative": 1,
+            "deaths": 0
+        },
+        "VietNam": {
+            "cumulative": 57,
+            "deaths": 1
+        },
+        "United Kingdom": {
+            "cumulative": 1,
+            "deaths": 0
+        },
+        "Total": {
+            "cumulative": 221,
+            "deaths": 4
+        }
+    }
+}
